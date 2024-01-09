@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [{
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Bethan Moorcraft",
+        "title": "'It's going to kill the company': Elon Musk launches F-bomb-filled tirade against giants like Disney for stripping ads from X over his endorsement of an antisemitic post - Yahoo Finance",
+        "description": "The Tesla CEO had choice words for Disney CEO Bob Iger, among others.",
+        "url": "https://finance.yahoo.com/news/going-kill-company-elon-musk-173500641.html",
+        "urlToImage": "https://media.zenfs.com/en/moneywise_327/e5cd23cab4b9766d5cb1623d09976b87",
+        "publishedAt": "2023-11-30T17:35:00Z",
+        "content": "Its going to kill the company: Elon Musk launches F-bomb-filled tirade against giants like Disney for stripping ads from X over his endorsement of an antisemitic post\r\nElon Musk, the billionaire owne… [+3088 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Anna Bahney",
+        "title": "Mortgage rates drop for fifth straight week - CNN",
+        "description": "Mortgage rates continued to drop this week. It’s the fifth straight week rates have moved lower.",
+        "url": "https://www.cnn.com/2023/11/30/homes/mortgage-rates-drop/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1775223613.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-11-30T17:22:00Z",
+        "content": "Mortgage rates continued to drop this week. Its the fifth straight week rates have moved lower.\r\nThe 30-year fixed-rate mortgage fell to an average of 7.22% in the week ending November 30, down from … [+4865 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "PFT's Week 13 2023 NFL picks, Florio vs. Simms - NBC Sports",
+        "description": "As the season hits the homestretch, the picks competition does too.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-13-2023-nfl-picks-florio-vs-simms",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5c5932e/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F122%2F207%2Fnbc_simms_seavdal_231130.jpg",
+        "publishedAt": "2023-11-30T17:21:55Z",
+        "content": "Here we go, again. Week 13. Thirteen games. The home stretch begins.\r\nThe race remains tight between Simms and me. For Week 12, I went 11-5 straight up. But Simms went 13-3, cutting my margin to two … [+2122 chars]"
+    }, {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Alexander Bolton",
+        "title": "Senate GOP stages hearing walkout to protest Supreme Court-related subpoenas - The Hill",
+        "description": "Tempers exploded at a Senate Judiciary Committee meeting Thursday before Democrats voted to subpoena a major conservative donor and a prominent conservative activist linked to the Supreme Court’s ethics scandals.  The Republican members of the committee storm…",
+        "url": "https://thehill.com/homenews/senate/4335581-senate-gop-stages-hearing-walkout-to-protest-supreme-court-related-subpoenas/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/grahamlindsey_durbinrichard_113023gn01_w.jpg?w=1280",
+        "publishedAt": "2023-11-30T17:10:00Z",
+        "content": "Tempers exploded at a Senate Judiciary Committee meeting Thursday before Democrats voted to subpoena a major conservative donor and a prominent conservative activist linked to the Supreme Courts ethi… [+5196 chars]"
+    }, {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "KEVIN FREKING",
+        "title": "George Santos refuses to resign ahead of House expulsion vote - The Associated Press",
+        "description": "A defiant Rep. George Santos is refusing to resign and warning colleagues that his expulsion from Congress before being convicted in a court of law would establish a precedent that's “going to be the undoing of a lot of members.” The first-term Republican con…",
+        "url": "https://apnews.com/article/george-santos-house-expulsion-vote-ethics-d24b4b727da4f6b9af26e5aa902db992",
+        "urlToImage": "https://dims.apnews.com/dims4/default/a559193/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff8%2Fe3%2F7f9a2e0327f47eb343f6c192a9b6%2Fd2a2cea11be349fb85a34676006befbf",
+        "publishedAt": "2023-11-30T17:05:00Z",
+        "content": "WASHINGTON (AP) A defiant Rep. George Santos is refusing to resign and warned on Thursday that his expulsion from Congress before being convicted in a court of law would establish a precedent that is… [+6040 chars]"
+    }, {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Allison Johnson",
+        "title": "Google adds Photomoji, profiles, and custom colors to RCS in Messages - The Verge",
+        "description": "Google is celebrating an RCS milestone by adding some playful new features to its messaging app. Create your own emoji, use animated reactions, and change those chat bubbles any color you want with the latest update.",
+        "url": "https://www.theverge.com/2023/11/30/23981350/google-messages-chat-rcs-apple-imessage-photo-emoji",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/5O02CPkj1Yji5g_SAjNzgiRV2Iw=/0x0:2096x1182/1200x628/filters:focal(1048x591:1049x592)/cdn.vox-cdn.com/uploads/chorus_asset/file/25121451/0._Google_Messages_Blog_Header.png",
+        "publishedAt": "2023-11-30T17:00:00Z",
+        "content": "Google celebrates 1 billion RCS users with emoji-filled messaging features\r\nGoogle celebrates 1 billion RCS users with emoji-filled messaging features\r\n / Google is doing a little RCS victory lap.\r\nB… [+3219 chars]"
+    }, {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Alaina Getzenberg",
+        "title": "Warrant issued for Bills' Miller for alleged assault - ESPN",
+        "description": "An arrest warrant has been issued in Dallas for Von Miller for allegedly assaulting a pregnant woman.",
+        "url": "https://www.espn.com/nfl/story/_/id/39013616/warrant-issued-bills-von-miller-alleged-assault",
+        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1130%2Fr1260060_2_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-11-30T16:48:00Z",
+        "content": "BUFFALO, N.Y. -- An arrest warrant has been issued in Dallas for Bills player Von Miller for allegedly assaulting a pregnant woman.\r\nThe Dallas Police Department confirmed the warrant, which was init… [+1586 chars]"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Chico Harlan, Maxine Joselow, Christian Shepherd, Scott Dance, Brady Dennis",
+        "title": "COP28 climate summit begins in Dubai: Live updates and agenda - The Washington Post",
+        "description": "The U.N. Climate Change Conference, or COP28, opens Thursday in Dubai’s Expo City. Follow live updates on the summit and agenda highlights.",
+        "url": "https://www.washingtonpost.com/climate-environment/2023/11/30/cop28-climate-summit-dubai-begins/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2023/t_5e81ee84eb30463f96f3e875eb76816d_name_1___1920x1080___30p_00_00_54_09_Still016.jpg&w=1440",
+        "publishedAt": "2023-11-30T16:47:34Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "nfl-news",
+            "name": "NFL News"
+        },
+        "author": null,
+        "title": "Panthers QB Bryce Young: 'We all share' in some responsibility for Frank Reich firing - NFL.com",
+        "description": "Panthers quarterback Bryce Young on Wednesday discussed the firing of head coach Frank Reich earlier this week.",
+        "url": "https://www.nfl.com/news/panthers-qb-bryce-young-we-all-share-in-responsibility-for-frank-reich-firing",
+        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/ywnlnxd3pzsokkxxuhdc",
+        "publishedAt": "2023-11-30T16:30:00Z",
+        "content": "Reich didn't do himself many favors during his brief tenure, bouncing back and forth between handling play-calling duties and delegating to offensive coordinator Thomas Brown. No matter the change, t… [+2101 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Lauren del Valle",
+        "title": "New York appeals court reinstates gag order against Donald Trump in civil fraud trial - CNN",
+        "description": "A New York appellate court has reinstated a gag order prohibiting former President Donald Trump from making public statements about the court staff in the ongoing civil fraud trial.",
+        "url": "https://www.cnn.com/2023/11/30/politics/new-york-appeals-court-reinstates-gag-order-against-donald-trump-in-civil-fraud-trial/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1742775871.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-11-30T16:27:00Z",
+        "content": "A New York appellate court has reinstated a gag order prohibiting former President Donald Trump and attorneys from making public statements about the court staff in the ongoing $250 million civil fra… [+3499 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "ELLE.com"
+        },
+        "author": "Alyssa Bailey",
+        "title": "Taylor Swift Fans Have a Theory About Her and Joe Alwyn After Jack Antonoff's Instagram Story - Yahoo Life",
+        "description": "The revelation is changing how many view Swift’s longest-running romance to date.",
+        "url": "https://www.elle.com/culture/celebrities/a45997647/taylor-swift-joe-alwyn-theory-jack-antonoff-instagram-story/",
+        "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/taylor-swift-and-joe-alwyn-depart-zuma-on-october-06-2019-news-photo-1701358273.jpg?crop=1.00xw:0.400xh;0,0.0614xh&resize=1200:*",
+        "publishedAt": "2023-11-30T16:24:00Z",
+        "content": "When Taylor Swift released the Midnights vault songYoure Losing Me in May, fans speculated it could be the singers first breakup song about her and ex-boyfriend Joe Alwyn. Swift and Alwyn broke up in… [+2347 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "The Six Pack: Georgia vs. Alabama, Oregon vs. Washington among top Week 14 college football picks - CBS Sports",
+        "description": "Trust the Process one final time before we get to the true silly season: Bowl games",
+        "url": "https://www.cbssports.com/college-football/news/the-six-pack-georgia-vs-alabama-oregon-vs-washington-among-top-week-14-college-football-picks/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/11/30/a5c18062-ecbd-4be2-9a4c-eca2e3453906/thumbnail/1200x675/6fc673395d5f715511c7674d2b110ff2/ladd-mckonkey-bama.jpg",
+        "publishedAt": "2023-11-30T16:05:00Z",
+        "content": "We've reached Championship Week, and there's a lot left to play for across the country this weekend. There are four spots in the College Football Playoff and eight teams with a conceivable shot of cl… [+7695 chars]"
+    }, {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": "Nidal Al-Mughrabi, Mohammad Salem, Humeyra Pamuk",
+        "title": "Hamas hands over two female hostages, others expected after truce extended - Reuters",
+        "description": "Two women have returned to Israel after being handed to the Red Cross in Gaza City, Israeli authorities said on Thursday, and further hostages are expected to be released later in the evening, following a <a href=\"/world/middle-east/israelhamas-war-hostage-de…",
+        "url": "https://www.reuters.com/world/middle-east/talks-intensify-extend-israel-hamas-truce-after-more-hostages-prisoners-freed-2023-11-30/",
+        "urlToImage": "https://www.reuters.com/resizer/nDbK0jqlP3KYMUhhMb5GlCjPK2o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LISZQYVE6NLENALQNR6SWDRBRU.jpg",
+        "publishedAt": "2023-11-30T16:03:56Z",
+        "content": "GAZA/TEL AVIV, Nov 30 (Reuters) - Two women have returned to Israel after being handed to the Red Cross in Gaza City, Israeli authorities said on Thursday, and further hostages are expected to be rel… [+7144 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Kristen Holmes, Alayna Treene, Kate Sullivan",
+        "title": "Some Republicans sound alarm after Trump revives focus on Obamacare - CNN",
+        "description": "Former President Donald Trump’s renewed focus on repealing and replacing the Affordable Care Act, known colloquially as Obamacare, has alarmed some Republicans scarred by the GOP’s failure to deliver on promises to dismantle the law and who view the issue as …",
+        "url": "https://www.cnn.com/2023/11/30/politics/trump-obamacare-2024/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-20t210828z-381075538-rc2hg4a6arku-rtrmadp-3-usa-election-candidates.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-11-30T15:12:00Z",
+        "content": "Former President Donald Trumps renewed focus on repealing and replacing the Affordable Care Act, known colloquially as Obamacare, has alarmed some Republicans scarred by the GOPs failure to deliver o… [+5838 chars]"
+    }, {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": "Dan Williams",
+        "title": "Two Hamas gunmen open fire at Jerusalem bus stop, killing three - Reuters",
+        "description": "Two Hamas gunmen killed three people at a Jerusalem bus stop during morning rush hour on Thursday, and Israel reiterated its commitment to wiping out the Palestinian Islamist faction, whose Oct. 7 killing spree triggered the Gaza war.",
+        "url": "https://www.reuters.com/world/middle-east/shooting-attack-jerusalem-wounds-least-6-ambulance-service-2023-11-30/",
+        "urlToImage": "https://www.reuters.com/resizer/6uDp4U0uF4hzFYV9epUw1cKBa6s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SYATCWYILZJXBCMV62IHCMDTNE.jpg",
+        "publishedAt": "2023-11-30T14:55:00Z",
+        "content": "JERUSALEM, Nov 30 (Reuters) - Two Hamas gunmen killed three people at a Jerusalem bus stop during morning rush hour on Thursday, and Israel reiterated its commitment to wiping out the Palestinian Isl… [+3494 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Mike Calia, Drew Richardson",
+        "title": "Activist investor Nelson Peltz launches Disney proxy fight, seeks multiple board seats - CNBC",
+        "description": "Nelson Peltz and his firm, Trian, seek multiple seats on Disney's board, triggering a proxy fight.",
+        "url": "https://www.cnbc.com/2023/11/30/nelson-peltz-seeks-two-seats-on-disney-board.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107341311-1701354379944-gettyimages-1249989643-FII_PRIORITY_SUMMIT.jpeg?v=1701359487&w=1920&h=1080",
+        "publishedAt": "2023-11-30T14:38:57Z",
+        "content": "Activist investor Nelson Peltz and his firm are seeking more than two seats on Disney's board, according to a person familiar with the matter, setting the stage for a proxy fight.\r\nTrian Fund Managem… [+2952 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Massive Solar Storms To Hit Earth On Friday, Could Disrupt Internet, Radio And GPS Signals - NDTV",
+        "description": "A potent solar flare eruption is expected to result in intense auroras, as a potential 'cannibal CME' is propelled towards Earth.",
+        "url": "https://www.ndtv.com/science/massive-solar-storms-to-hit-earth-on-friday-could-disrupt-internet-radio-and-gps-signals-4622145",
+        "urlToImage": "https://c.ndtvimg.com/2023-11/ul4dibro_solar-storm_625x300_25_November_23.jpeg",
+        "publishedAt": "2023-11-30T14:23:19Z",
+        "content": "The solar storm has the potential to result in vivid auroras.\r\nPowerful solar storms are expected to hit the Earth on Friday (December 1), according to a forecasting model developed by the US-based a… [+1998 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "World Health Organization"
+        },
+        "author": "World Health Organization: WHO",
+        "title": "WHO's annual malaria report spotlights the growing threat of climate change - World Health Organization",
+        "description": "<p>Despite strides in expanding access to insecticide-treated nets and medicines to help prevent malaria in young children and pregnant women, more people were getting sick with malaria, according to a new report published by the World Health Organization (WH…",
+        "url": "https://www.who.int/news/item/30-11-2023-who-s-annual-malaria-report-spotlights-the-growing-threat-of-climate-change",
+        "urlToImage": "https://cdn.who.int/media/images/default-source/global-malaria-program-(gmp)/202309_who_ghana-day03_223_fullres.tmb-1200v.jpg?sfvrsn=f47f9c26_2",
+        "publishedAt": "2023-11-30T14:10:15Z",
+        "content": "Despite strides in expanding access to insecticide-treated nets and medicines to help prevent malaria in young children and pregnant women, more people were getting sick with malaria, according to a … [+6299 chars]"
+    }, {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "DAVID KLEPPER",
+        "title": "Thousands of fake Facebook accounts shut down by Meta were primed to polarize voters ahead of 2024 - The Associated Press",
+        "description": "Meta says it has found and disabled thousands of fake Facebook accounts linked to China that were used to spread politically partisan content in the United States before next year’s election. The accounts disclosed Thursday were designed to look as though the…",
+        "url": "https://apnews.com/article/meta-facebook-2024-election-misinformation-china-956019723463918043e060ac577270f7",
+        "urlToImage": "https://dims.apnews.com/dims4/default/dcba5be/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fe9%2F058c4d00419516c5139e313b8140%2F92277d3578a34445b807d37a84736294",
+        "publishedAt": "2023-11-30T14:09:00Z",
+        "content": "WASHINGTON (AP) Someone in China created thousands of fake social media accounts designed to appear to be from Americans and used them to spread polarizing political content in an apparent effort to … [+6779 chars]"
+    }]
+}
